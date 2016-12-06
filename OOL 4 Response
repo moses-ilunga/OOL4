@@ -5,9 +5,13 @@ PHASE 2
 
 1) Absolutely! The data we see seems to be concurrent with the time and efficiency of every collection that was included with what we learned about in class.
 
-2)
+2) There were a couple of outliers during the tests. One such time was a HashSet add time of 71685534.
+This was roughly 20000000 nano seconds longer than the other HashSet adds. This could be caused by bad rng. The numbers may have just been inefficient
+numbers for the HashSet to handle.
 
-3)
+3) Individual{
+add: top 3 -
+}
 
 4)
 
@@ -18,3 +22,4 @@ PHASE 2
 7)
 
 PHASE 3
+Tim - 
