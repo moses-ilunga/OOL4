@@ -11,6 +11,13 @@ numbers for the HashSet to handle.
 
 3) Individual{
 add: top 3 -
+add: bottom 3 -
+search top 3-
+search bottom 3-
+remove top 3
+remove bottom 3-
+average top 3-
+average bottom 3-
 }
 
 4)
