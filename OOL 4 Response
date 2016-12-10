@@ -10,12 +10,12 @@ This was roughly 20000000 nano seconds longer than the other HashSet adds. This 
 numbers for the HashSet to handle.
 
 3) Individual{
-add: top 3 -
-add: bottom 3 -
-search top 3-
-search bottom 3-
-remove top 3
-remove bottom 3-
+add: top 3 - ArrayList, Vector. Hashmap
+add: bottom 3 -Linked hash set, linled list, tree set
+search top 3- hashset, linked hashset, treeset
+search bottom 3- Treemap, hashmap, hashtable
+remove top 3 -  treeset, hashtable, hashmap
+remove bottom 3- Linked list, arraylist, vector
 average top 3-
 average bottom 3-
 }
