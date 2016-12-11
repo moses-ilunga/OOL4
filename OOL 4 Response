@@ -14,19 +14,33 @@ add: top 3 - ArrayList, Vector. Hashmap
 add: bottom 3 -Linked hash set, linled list, tree set
 search top 3- hashset, linked hashset, treeset
 search bottom 3- Treemap, hashmap, hashtable
-remove top 3 -  treeset, hashtable, hashmap
+remove top 3 -  hashmap, linked hashmap, hashset
 remove bottom 3- Linked list, arraylist, vector
-average top 3-
-average bottom 3-
+average top 3- hashset, treeset, linked hashmap
+average bottom 3-arrayList, vector, and linked hashset
 }
 
-4)
+4)Yes. For add, the only step for ArrayList is to add it to the end which is very quick. When it comes to the bottom of the
+barrel of effieciency for add, treeset takes a while because you have to trace througt the tree to figure out where you want to put the value.
+for Search the top makes sense for treeset because you would just have to search left and right depending on value until you either find the value of you dont.
+when it comes to the least effient for search, hashmap has keys that we have to run through and access before we can access the data.
+This is effectively running two processes and adds significantly to the search time.
+[1] Hashmap is fast at removing because after you take a value out. You are done. You don't have to move anything else.
+Linked list is bad at removing because after you remove a value, it has to go through and manually update all the pointers one by one.
+Hashset is the quickest overall because you're feeding a value throguh and setting it to a key. There's no location you have to worry about.
+arrayList takes the longest thanks to removing values. It has to move everything over when it removes things from the middle of the list, and
+when searching must go through every value in the list.
 
-5)
+5)The prediction is that doubling searches won't do much for changing rankings, it'll just maybe add a bit of time to the average search time depending on
+efficiency of the set. It turns out the search time was dramatically increased but rankings weren't changed at all.
 
-6)
+6)If searches were halfved, the listed search times would go down dramatically, but the rankings should still stay the same.
 
-7)
+7) Tim- I'm extremely facinated with how hashmaps get the hashes used to find values stored in places in the memory. I get
+
+Ben - [2]I was surprised specifically with the removing time the Treemap. Since whenever we removes something from a tree we have to rebuild the tree in able to keep some kind of structure. But even with this process the remove time for the Treemap was still one of the lowest.
+
 
 PHASE 3
-Tim - 
+[1]Tim - https://www.quora.com/How-is-Hashmap-in-Java-implemented-internally-What-are-the-pros-and-cons-to-use-it-What-are-the-complexities-it-provides-for-insert-delete-and-lookup
+[2]Ben - http://stackoverflow.com/questions/20487619/complexity-of-treemap-insertion-vs-hashmap-insertion
