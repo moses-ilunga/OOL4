@@ -32,9 +32,10 @@ arrayList takes the longest thanks to removing values. It has to move everything
 when searching must go through every value in the list.
 
 5)The prediction is that doubling searches won't do much for changing rankings, it'll just maybe add a bit of time to the average search time depending on
-efficiency of the set. It turns out the search time was dramatically increased but rankings weren't changed at all.
+efficiency of the set. RESULTS: It turns out it didn't change the times at all because it takes an average of all the search times and rankings were the same.
 
-6)If searches were halfved, the listed search times would go down dramatically, but the rankings should still stay the same.
+6)The prediction is that if searches were halfved, the listed search times would stay the same and the rankings should still stay the same.
+RESULTS: We got the initial prediction correct. Search times and rankings stayed the same.
 
 7) Tim- I'm extremely facinated with how hashmaps get the hashes used to find values stored in places in the memory. I get
 
