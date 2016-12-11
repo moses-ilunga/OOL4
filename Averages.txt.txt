@@ -1,0 +1,10 @@
+ArrayList add Average : 116904605
+
+Vector add Average : 104205233
+
+HashTable Add Average : 66346559
+
+HashSet add Average : 287533462
+
+HashMap add Average: 
+
