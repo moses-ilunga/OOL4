@@ -1,10 +1,40 @@
-ArrayList add Average : 116904605
+ArrayList add Average :29226151
 
-Vector add Average : 104205233
+Vector add Average : 26051308
 
-HashTable Add Average : 66346559
+HashTable Add Average : 16586639
 
-HashSet add Average : 287533462
+HashSet add Average : 71883365
 
-HashMap add Average: 
+HashMap add Average: 122078301
+
+Linked HashSet Add: 504243022
+
+Linked HashMap Add: 38139206
+
+Linked List Add Time: 382398868
+
+TreeSet Add: 95417576
+
+TreeMap Add:80244991
+------------
+ArrayList Remove :
+
+Vector Remove : 
+
+HashTable Remove : 
+
+HashSet Remove :
+
+HashMap Average: 
+
+Linked HashSet Remove: 
+
+Linked HashMap Remove: 
+
+Linked List Remove: 
+
+TreeSet Remove: 
+
+TreeMap Remove: 
 
