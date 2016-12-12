@@ -18,23 +18,65 @@ TreeSet Add: 95417576
 
 TreeMap Add:80244991
 ------------
-ArrayList Remove :
+ArrayList Search: 6447135350
 
-Vector Remove : 
+Vector Search: 6082082744
 
-HashTable Remove : 
+HashTable Search: 49666006837
 
-HashSet Remove :
+HashSet Search: 7935677
 
-HashMap Average: 
+HashMap Search:  46789421832
 
-Linked HashSet Remove: 
+Linked HashSet Search:  3675414
 
-Linked HashMap Remove: 
+Linked HashMap Search:  34510170417
 
-Linked List Remove: 
+Linked List Search:  18094020559
 
-TreeSet Remove: 
+TreeSet Search:  10742739
 
-TreeMap Remove: 
+TreeMap Search: 243786854633
+--------
+ArrayList Remove : 662274742
+
+Vector Remove : 623488551
+
+HashTable Remove : 762617
+
+HashSet Remove : 937015
+
+HashMap Average: 851535
+
+Linked HashSet Remove: 998927
+
+Linked HashMap Remove: 864599
+
+Linked List Remove: 1835388793
+
+TreeSet Remove: 1474078
+
+TreeMap Remove: 1413544
+--------------
+ArrayList Total Time: 7328794430
+
+Vector Total Time: 6839678150
+		
+HashTable Total Time: 49834785491
+	
+HashSet Total Time: 109110265
+	
+HashMap Total Time: 46857337388
+		
+Linked HashSet Total Time: 656616180
+	
+Linked HashMap Total Time: 34580881567
+		
+Linked List Total Time: 20395267397
+		
+TreeSet Total Time: 133127823
+		
+TreeMap Total Time: 243910574761
+		
+
 
