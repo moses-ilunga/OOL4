@@ -54,7 +54,9 @@ figuring out this project relating to hashmaps.
 
 Ben - [2]I was surprised specifically with the removing time the Treemap. Since whenever we removes something from a tree we have to rebuild the tree in able to keep some kind of structure. But even with this process the remove time for the Treemap was still one of the lowest.
 
+Christian - [3] I thought that it was interesting to see how consistent each operation was across each of the tests. This gives me an idea of what I can expect for real world performance for each of these data structures with different numbers.
 
 PHASE 3
 [1]Tim - https://www.quora.com/How-is-Hashmap-in-Java-implemented-internally-What-are-the-pros-and-cons-to-use-it-What-are-the-complexities-it-provides-for-insert-delete-and-lookup
 [2]Ben - http://stackoverflow.com/questions/20487619/complexity-of-treemap-insertion-vs-hashmap-insertion
+[3]Christian - http://bigocheatsheet.com/
