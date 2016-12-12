@@ -16,8 +16,8 @@ search top 3- hashset, linked hashset, treeset
 search bottom 3- Treemap, hashmap, hashtable
 remove top 3 -  hashmap, linked hashmap, hashset
 remove bottom 3- Linked list, arraylist, vector
-average top 3- hashset, treeset, linked hashmap
-average bottom 3-arrayList, vector, and linked hashset
+total top 3- hashset, treeset, linked hashmap
+total bottom 3- arrayList, vector, and linked hashset
 }
 
 Average{
@@ -27,8 +27,8 @@ search top 3- hashset, linked hashset, treeset
 search bottom 3-treemap, hashmap, hashtable
 remove top 3- hashmap, linked hashmap, hashset
 remove bottom 3- linked list, vector, arraylist
-average top 3- 
-average bottom 3-
+total top 3- hashset, linked hashset, tree set 
+total bottom 3- hashmap, hash table, Arraylist 
 }
 
 4)Yes. For add, the only step for ArrayList is to add it to the end which is very quick. When it comes to the bottom of the
