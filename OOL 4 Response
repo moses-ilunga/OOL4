@@ -9,8 +9,8 @@ PHASE 2
 This was roughly 20000000 nano seconds longer than the other HashSet adds. This could be caused by bad rng. The numbers may have just been inefficient
 numbers for the HashSet to handle.
 
-3) Individual{
-add: top 3 - ArrayList, Vector. Hashmap
+3) Individual{ we looked at multiple tables and tried to compare them in our head to find consistancies in top and bottom 3
+add: top 3 - ArrayList, Vector. Hashtable
 add: bottom 3 -Linked hash set, linled list, tree set
 search top 3- hashset, linked hashset, treeset
 search bottom 3- Treemap, hashmap, hashtable
@@ -21,13 +21,13 @@ average bottom 3-arrayList, vector, and linked hashset
 }
 
 Average{
-add: top 3 - 
-add: bottom 3-
-search top 3-
-search bottom 3-
-remove top 3-
-remove bottom 3-
-average top 3-
+add: top 3 - Vector, hashtable, arrayList
+add: bottom 3- Linked list,hashset, linked hashset
+search top 3- hashset, linked hashset, treeset
+search bottom 3-treemap, hashmap, hashtable
+remove top 3- hashmap, linked hashmap, hashset
+remove bottom 3- linked list, vector, arraylist
+average top 3- 
 average bottom 3-
 }
 
