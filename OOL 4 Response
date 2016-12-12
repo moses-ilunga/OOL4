@@ -17,7 +17,7 @@ search bottom 3- Treemap, hashmap, hashtable
 remove top 3 -  hashmap, linked hashmap, hashset
 remove bottom 3- Linked list, arraylist, vector
 total top 3- hashset, treeset, linked hashmap
-total bottom 3- arrayList, vector, and linked hashset
+total bottom 3- arrayList, Vector, and linked hashset
 }
 
 Average{
